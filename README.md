@@ -2,8 +2,11 @@
 - 👀 I’m a Full Stack Developer 
 
 6+ years of Software Development experience in designing, developing and maintaining ultra-low latent, high throughput, high available and mission critical distributed systems for Capital Markets.
+
 1+ years of working experience as a Scrum Master.
-6+ years of experience in Agile Software Development environments. 
+
+6+ years of experience in Agile Software Development environments.
+
 6+ years of working experience as a FrontEnd and BackEnd developer in C++ and Java and related technologies
 
 Interested in Java | C++ | React | Spring Boot | AWS | Data Structures and Algorithms | Systems Design
